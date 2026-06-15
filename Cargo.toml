@@ -86,7 +86,7 @@ version = "0.2.3"
 optional = true
 
 [dependencies.dashmap]
-version = "6.1.0"
+version = "6.2.1"
 optional = true
 
 [dependencies.elf]
@@ -110,7 +110,7 @@ version = "0.9.10"
 optional = true
 
 [dependencies.nix]
-version = "0.31.2"
+version = "0.31.3"
 features = ["kmod"]
 optional = true
 
